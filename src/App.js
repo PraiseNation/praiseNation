@@ -1,8 +1,7 @@
 import './App.css';
-import Pictures from './Components/Pictures'
-import Navbar from './Components/Navbar'
-import Images from './Components/Images'
-import Trending from './Components/Trending'
+import Navbar from './JS/Navbar'
+import Images from './JS/Images'
+import Trending from './JS/Trending'
 
 function App() {
 
