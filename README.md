@@ -14,7 +14,7 @@ HTML, CSS, JavaScript, React
 # Contributors
 --------------
 
-Enam Dartey 
-Clement Quaye
-Mercy Quaye
-Ruth Fekade
+Enam Dartey, 
+Clement Quaye,
+Mercy Quaye,
+Ruth Fekade,
