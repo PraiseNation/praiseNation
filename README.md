@@ -9,7 +9,7 @@ The page is filled mostly with images and uses react in building the frontend.
 
 # Languages used
 ----------------
-HTML, CSS, JavaScript, React
+CSS, JavaScript
 
 # Contributors
 --------------
